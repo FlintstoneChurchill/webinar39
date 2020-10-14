@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webinar39/static/css/main.69486a2c.chunk.css",
+    "main.js": "/webinar39/static/js/main.352c67fe.chunk.js",
+    "main.js.map": "/webinar39/static/js/main.352c67fe.chunk.js.map",
+    "runtime-main.js": "/webinar39/static/js/runtime-main.e7471e1f.js",
+    "runtime-main.js.map": "/webinar39/static/js/runtime-main.e7471e1f.js.map",
+    "static/js/2.a1d8b084.chunk.js": "/webinar39/static/js/2.a1d8b084.chunk.js",
+    "static/js/2.a1d8b084.chunk.js.map": "/webinar39/static/js/2.a1d8b084.chunk.js.map",
+    "index.html": "/webinar39/index.html",
+    "precache-manifest.4f443f6294b033fddb57ba78d9b82cf6.js": "/webinar39/precache-manifest.4f443f6294b033fddb57ba78d9b82cf6.js",
+    "service-worker.js": "/webinar39/service-worker.js",
+    "static/css/main.69486a2c.chunk.css.map": "/webinar39/static/css/main.69486a2c.chunk.css.map",
+    "static/js/2.a1d8b084.chunk.js.LICENSE.txt": "/webinar39/static/js/2.a1d8b084.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7471e1f.js",
+    "static/js/2.a1d8b084.chunk.js",
+    "static/css/main.69486a2c.chunk.css",
+    "static/js/main.352c67fe.chunk.js"
+  ]
+}
